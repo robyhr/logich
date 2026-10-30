@@ -2,16 +2,16 @@
 <updates>
 	<update>
 		<name>LogiCh Media</name>
-		<description>LogiCh Media 1.0.2</description>
+		<description>LogiCh Media 1.0.3</description>
 		<element>pkg_logichmedia</element>
 		<type>package</type>
 		<client>site</client>
-		<version>1.0.2</version>
-		<infourl title="LogiCh Media 1.0.2">https://github.com/robyhr/logich/releases/tag/pkg_logichmedia-1.0.2</infourl>
+		<version>1.0.3</version>
+		<infourl title="LogiCh Media 1.0.3">https://github.com/robyhr/logich/releases/tag/pkg_logichmedia-1.0.3</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/robyhr/logich/releases/download/pkg_logichmedia-1.0.2/pkg_logichmedia-1.0.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/robyhr/logich/releases/download/pkg_logichmedia-1.0.3/pkg_logichmedia-1.0.3.zip</downloadurl>
 		</downloads>
-		<sha512>31a9940856cb948e7aba31e5349f6f989a08e1d886301b426d30c1bdcfafb88eef31b293a02464ab27d34c39a3583116c5525779c644fc88e062066ebd5b633b</sha512>
+		<sha512>09b9f49395c0f9d91fe5de84dd30ec96f35ec06674f8e8aac27c331f1db97b65586ce1d32393a97ee1abc8be3792f4848a391a44d861d20694a3566729e0908c</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>
