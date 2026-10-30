@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>LogiCh Media</name>
+		<description>LogiCh Media 1.0.1</description>
+		<element>pkg_logichmedia</element>
+		<type>package</type>
+		<client>site</client>
+		<version>1.0.1</version>
+		<infourl title="LogiCh Media 1.0.1">https://github.com/robyhr/logich/releases/tag/pkg_logichmedia-1.0.1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/robyhr/logich/releases/download/pkg_logichmedia-1.0.1/pkg_logichmedia-1.0.1.zip</downloadurl>
+		</downloads>
+		<sha512>4294b4ebeb5ae3b0df09711f89f505b167f808d8a7349eb8333de6964e07dd0675aef91adccb300ff9a1e996283cad41d1ac7bb184d216dd0acb92d70a2a40d8</sha512>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>Logical Choice</maintainer>
+		<targetplatform name="joomla" version="6\.[0-9]+"/>
+		<php_minimum>8.3</php_minimum>
+	</update>
+</updates>
